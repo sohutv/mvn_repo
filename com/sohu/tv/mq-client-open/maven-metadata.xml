@@ -3,10 +3,10 @@
   <groupId>com.sohu.tv</groupId>
   <artifactId>mq-client-open</artifactId>
   <versioning>
-    <release>1.9.3</release>
+    <release>1.9.4</release>
     <versions>
-      <version>1.9.3</version>
+      <version>1.9.4</version>
     </versions>
-    <lastUpdated>20191224065523</lastUpdated>
+    <lastUpdated>20200410091428</lastUpdated>
   </versioning>
 </metadata>
